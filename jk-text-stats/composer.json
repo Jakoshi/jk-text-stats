@@ -1,0 +1,12 @@
+{
+    "name": "jk/jk-text-stats",
+    "authors": [
+        {
+            "name": "Josh Kresse",
+            "email": "jk@lichtblick-webmanufaktur.de"
+        }
+    ],
+    "require": {
+        "davechild/textstatistics": "^1.0"
+    }
+}
